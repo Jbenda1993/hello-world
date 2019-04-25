@@ -26,9 +26,7 @@ He's a nice guy, a little bit of a 🧙 but a good dude. :smile: :metal:
 I have a small secret..well, it's not a *big secret*. I am a big Taylor Swift fan. She is just amazing..like..Wow. 
 
 # What coding means to me.
-
 I remember when I started to code, it was not good. My code was simple and just ugly. It looks like the one below. 
-
 ```html
 <!DOCTYPE html>
 <html>
@@ -39,9 +37,7 @@ I remember when I started to code, it was not good. My code was simple and just 
 
 </body>
 </html>
-
 ```
-
 ## My Social Media output
 Below is a list of my social media contact.
 
