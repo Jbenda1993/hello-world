@@ -51,6 +51,10 @@ Facebook | thebenda
 twitter | @imbest
 Instagram | lovemesweetly
 
+# To Wrap it up
+
+I just want to say, it has been really fun learning how to use this. I'm for sure going to keep at it and learn more!
+
 # Assignment Completion 
 So far, this is what I have done..
 - [X] Edited this document
